@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning **Python, HTML&CSS, JS, and C# WPF,MVVM.**
 
+- 📝 You can reach me at [My E-Mail](mailto:bartjar978@student.polsl.pl?subject=[GitHub]%20Source%20Han%20Sans).
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tomyroksibarti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomyroksibarti" height="30" width="40" /></a>
