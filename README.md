@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartoszjarzynski&label=Profile%20views&color=0e75b6&style=flat" alt="bartoszjarzynski" /> </p>
 
-- 🔭 I’m currently working on **Mini Total Commander in WPF MVVM.**
+- 🔭 I’m currently working on **Online Quiz App in Python and Django.**
 
 - 🌱 I’m currently learning **Python, HTML&CSS, JS, and C# WPF,MVVM.**
 
