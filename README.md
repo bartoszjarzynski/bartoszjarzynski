@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mini Total Commander in WPF MVVM.**
 
-- 🌱 I’m currently learning **Python, Data Analysis and C# WPF,MVVM.**
+- 🌱 I’m currently learning **Python, HTML&CSS, JS, and C# WPF,MVVM.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
