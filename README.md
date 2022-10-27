@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bartosz Jarzyński</h1>
-<h3 align="center">I'm 20 yo 'Computer Science' Student at Silesian University of Technology in Gliwice (IV semester).</h3>
+<h3 align="center">I'm 20 yo 'Computer Science' Student at Silesian University of Technology in Gliwice (V semester).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartoszjarzynski&label=Profile%20views&color=0e75b6&style=flat" alt="bartoszjarzynski" /> </p>
 
