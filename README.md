@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bartosz Jarzyński</h1>
-<h3 align="center">I'm 20 yo 'Computer Science' Student at Silesian University of Technology in Gliwice (V semester).</h3>
+<h3 align="center">I'm 21 yo 'Computer Science' Student at Silesian University of Technology in Gliwice (V semester).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartoszjarzynski&label=Profile%20views&color=0e75b6&style=flat" alt="bartoszjarzynski" /> </p>
 
-- 🔭 I’m currently working on **Online Quiz App in Python and Django.**
+- 🔭 I’m currently working on **Android project.**
 
-- 🌱 I’m currently learning **Python, HTML&CSS, JS, and C# WPF,MVVM.**
+- 🌱 I’m currently learning **HTML&CSS, JS, Kotlin and Flutter, Dart.**
 
 - 📝 You can reach me at [My E-Mail](mailto:bartjar978@student.polsl.pl?subject=[GitHub]%20Source%20Han%20Sans).
 <h3 align="left">Connect with me:</h3>
