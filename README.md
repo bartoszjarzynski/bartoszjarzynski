@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bartosz Jarzyński</h1>
-<h3 align="center">I'm 22 yo 'Computer Science' Student at Silesian University of Technology in Gliwice (V semester).</h3>
+<h3 align="center">I'm 22 yo Computer Science/IT Engineer.</h3>
+<h4 align="center">In March I am starting Computer Science Master's Degree.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartoszjarzynski&label=Profile%20views&color=0e75b6&style=flat" alt="bartoszjarzynski" /> </p>
 
-- 🌱 I’m currently learning **Python, Django and Swift - App building.**
+- 🌱 I’m currently learning **Python Django and IAM.**
 
 - 📝 You can reach me at [My E-Mail](mailto:bartjar978@student.polsl.pl?subject=[GitHub]%20Source%20Han%20Sans).
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tomyroksibarti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomyroksibarti" height="30" width="40" /></a>
+<a href="https://twitter.com/bvrtekpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomyroksibarti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bartosz-jarzyński" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartosz-jarzyński" height="30" width="40" /></a>
 <a href="https://fb.com/bjvrzynski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bjvrzynski" height="30" width="40" /></a>
 <a href="https://instagram.com/mlody_bvrtus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mlody_bvrtus" height="30" width="40" /></a>
