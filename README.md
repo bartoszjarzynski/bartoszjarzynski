@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bartosz Jarzyński</h1>
-<h3 align="center">I'm 24 yo IAM Engineer.</h3>
-<h4 align="center">Currently I completed Computer Science Master's Degree.</h4>
+<h3 align="center">24 yo</h3>
+<h4 align="center">Computer Science Master's Degree.</h4>
 <h4 align="center">Identity Access Management Specialist at Knauf IT Services Polska Sp. z.o.o</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartoszjarzynski&label=Profile%20views&color=0e75b6&style=flat" alt="bartoszjarzynski" /> </p>
 
-- 🌱 I’m currently learning **Python Django and IAM.**
+- 🌱 IAM specialist working daily in Okta, EntraId, Active Directory and Exchange.**
 
 - 📝 You can reach me at [My E-Mail](mailto:bjarzynski@outlook.com?subject=[GitHub]%20Source%20Han%20Sans).
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bvrtekpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bvrtekpv_X" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bartosz-jarzyński" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartosz-jarzyński" height="30" width="40" /></a>
-<a href="https://fb.com/bjvrzynski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bjvrzynski" height="30" width="40" /></a>
-<a href="https://instagram.com/mlody_bvrtus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mlody_bvrtus" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
