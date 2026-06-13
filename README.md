@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartoszjarzynski&label=Profile%20views&color=0e75b6&style=flat" alt="bartoszjarzynski" /> </p>
 
-- 🌱 IAM specialist working daily in Okta, EntraId, Active Directory and Exchange.**
+- 🌱 IAM specialist working daily in Okta, EntraId, Active Directory and Exchange.
 
 - 📝 You can reach me at [My E-Mail](mailto:bjarzynski@outlook.com?subject=[GitHub]%20Source%20Han%20Sans).
 <h3 align="left">Connect with me:</h3>
