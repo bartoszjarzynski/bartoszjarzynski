@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bartosz Jarzyński</h1>
 <h3 align="center">24 yo</h3>
-<h4 align="center">Computer Science Master's Degree.</h4>
-<h4 align="center">Identity Access Management Specialist at Knauf IT Services Polska Sp. z.o.o</h4>
+<h4 align="center">IAM Platform Engineer @Knauf IT</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartoszjarzynski&label=Profile%20views&color=0e75b6&style=flat" alt="bartoszjarzynski" /> </p>
 
